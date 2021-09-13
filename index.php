@@ -17,7 +17,6 @@
   <?php
   include 'navigationbar.php';
   ?>
-  
       <div class="container-fluid">
       <!-- Introduction section -->
             <div class="row intro py-1">
