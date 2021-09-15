@@ -33,7 +33,6 @@
     $sql = "SELECT * FROM users";
     $result = mysqli_query($conn,$sql);
 ?>
-
 <?php
   include 'navigationbar.php';
 ?>
